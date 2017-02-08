@@ -1,0 +1,8 @@
+[xorm] [warn]  2017/02/08 16:49:50.776568 Table d823menu_link_content_data has column link__uri but struct has not related field
+[xorm] [warn]  2017/02/08 16:49:50.787569 Table d823menu_link_content_data has column link__title but struct has not related field
+[xorm] [warn]  2017/02/08 16:49:50.787569 Table d823menu_link_content_data has column link__options but struct has not related field
+[xorm] [warn]  2017/02/08 16:49:50.787569 Table d823shortcut_field_data has column link__uri but struct has not related field
+[xorm] [warn]  2017/02/08 16:49:50.787569 Table d823shortcut_field_data has column link__title but struct has not related field
+[xorm] [warn]  2017/02/08 16:49:50.787569 Table d823shortcut_field_data has column link__options but struct has not related field
+[xorm] [warn]  2017/02/08 16:49:50.787569 Table d823taxonomy_term_field_data has column description__value but struct has not related field
+[xorm] [warn]  2017/02/08 16:49:50.787569 Table d823taxonomy_term_field_data has column description__format but struct has not related field
