@@ -19,7 +19,7 @@ func main() {
     m.Use(recover.Recover())
     m.Use(cors.CORS())
     m.Use(static.Static("public"))
-	m.SetRenderer(pongor.Renderor(pongor.PongorOption{
+	m.SetRenderer(pongor.Renderor(pongor.Option{
 		Reload:    true,
 	}))
 
