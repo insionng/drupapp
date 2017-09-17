@@ -8,8 +8,8 @@ import (
 	"github.com/insionng/macross/pongor"
 	"github.com/insionng/macross/static"
 	"github.com/insionng/macross/recover"
-	"drupapp/handler"
-	"drupapp/modules/auth"
+	"github.com/insionng/drupapp/handler"
+	"github.com/insionng/drupapp/modules/auth"
     "time"
 )
 
