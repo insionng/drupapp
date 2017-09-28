@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"drupapp/helper"
-	"drupapp/model"
+	"github.com/insionng/drupapp/helper"
+	"github.com/insionng/drupapp/model"
 	"github.com/insionng/macross"
 )
 
